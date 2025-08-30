@@ -2,14 +2,14 @@
 F1TENTH Simulation Assignment – Sedrica Tech Team
 
 Setup Instructions
-	1.	Create a virtual environment
+1.	Create a virtual environment
 
-python3 -m venv .venv
+python3 -m venv .venv 
+
 source .venv/bin/activate   # On Mac/Linux
 .venv\Scripts\activate      # On Windows
 
-
-	2.	Install dependencies
+2.	Install dependencies
 
 pip install -r requirements.txt
 
@@ -32,8 +32,6 @@ Run the following:
 
 python examples/lid.py
 
-
-⸻
 
 Directory Structure (important files)
 
